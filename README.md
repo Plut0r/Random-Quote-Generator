@@ -35,7 +35,7 @@ This project was inspired by freecodecamp. Frontend development libraries projec
 
 ### Links
 
-- Solution URL: [Git repo url](https://github.com/Plut0r/Insure)
+- Solution URL: [Git repo url](https://github.com/Plut0r/Random-Quote-Generator)
 - Live Site URL: [Git live url](https://insure-plut0r.netlify.app/)
 
 ### Useful Resources
